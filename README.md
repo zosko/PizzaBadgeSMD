@@ -6,7 +6,7 @@
 ![Scheme](images/scheme.png)
 
 ## Board
-![Board](images/board.mov)
+![Board](https://user-images.githubusercontent.com/3172271/178942912-fa8e5f65-ef89-4dcd-b090-d28ad3ad8561.mov)
 
 ## PCB Design
 
