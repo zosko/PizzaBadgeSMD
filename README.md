@@ -5,15 +5,8 @@
 ## Scheme
 ![Scheme](images/scheme.png)
 
-## Boards
-Board|PCB Empty|PCB filled
----------|---------|---------
-![Board](images/board.png)|![View 1](images/pcb_empty.png)|![View 2](images/pcb.png)
-
-## 3D Case
-With PCB|Case Empty
----------|---------
-![Case](images/case.png)|![Case 1](images/case_empty.png)
+## Board
+![Board](images/board.mov)
 
 ## PCB Design
 
@@ -23,15 +16,6 @@ Seeed Fusion PCB Assembly Service offers one-stop prototyping for PCB manufactur
 
 Check out their website to know about their manufacturing capabilities and service.
 https://www.seeedstudio.com/prototype-pcb-assembly.html 
-
-## Seeed Fusion PCBs
-Empty PCB|Finished PCB
---------|--------
-![View 4](images/pcb-received.jpeg)|![View 5](images/pcb-finish.jpg)
-
-## Demo
-
-<img src="https://user-images.githubusercontent.com/3172271/166099249-6f1bf737-73ee-47af-b424-5f22f5a7027d.mp4" width="400" height="400">
 
 ## Reasons to choose Seeed Studio
 - They provide PCB services at extremely low pricing and with excellent quality.
